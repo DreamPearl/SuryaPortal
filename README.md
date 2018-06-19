@@ -13,9 +13,11 @@ This project provides efficient and effective way of communication between stude
 - Easy to operate and work with.
 
 ## Modules
-There are mainly 2 modules in the project “Training and Placement Cell” They are: 
-    • Student module. 
-    • Administrator module. 
+There are mainly 2 modules in the project "Training and Placement Cell"
+
+They are: 
+- Student module. 
+- Administrator module. 
 
 ### Student module consists of services like: 
     • Announcements: This service provides the user to see the available  jobs and announcements made by admin.   
